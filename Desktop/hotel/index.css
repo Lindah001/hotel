@@ -1,0 +1,54 @@
+.nav{
+    color: yellow;
+    background-color: rgb(216, 233, 190);
+    font-size: x-large;
+    font-style: italic;
+    float: center;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    background-color: lawngreen;
+    color: rgb(238, 49, 49);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    }
+    .image1{
+        border: 2px solid green;
+        height: 500px;
+        width:300px;
+        float: right;
+        padding: 2%;
+    }
+    .image2{
+         border: 2px solid beige;
+         height: 600px;
+         width: 400px;
+         float: left;
+    }
+    p{
+        float: center;
+        background-color: gold ;
+        color: limegreen;
+        font-size: x-large;
+        font-style: oblique;
+        border: 5px;
+        padding: 0.5%;
+    }
+    .image3{
+        border: 1px solid yellow;
+        height: 300px;
+        width: 500px;
+        float: bottom right;
+    }
+    ol{
+        float: center;
+        color: orange;
+        background-color: white;
+        font-size: x-large;
+        font-weight: bold;
+        text-align: center;
+
+    }

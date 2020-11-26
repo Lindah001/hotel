@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    display:inline;
+    
+    
+  }
+  nav{
+    color: blue;
+    background-color: #dd8383;
+    font-size: 12px;
+    float: right;
+    width: 110%;
+    font-weight: bold;
+    position: fixed top;
+    margin: -1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline;
+    
+  
+  }
+  
+    nav li {
+      display: inline;
+      font-size: 20px;
+      padding: 10px;
+      float: right;
+      text-decoration: none;
+      color: blue;
+    }
+    a:link{
+      text-decoration: none;
+    }
+  p{
+    /* float: left; */
+    /* background-color: gray; */
+    width: 110%;
+    margin:-1rem;
+    color: black;
+    font-size: x-large;
+    
+  }
+  img{
+    height: 70%;
+    width: 48%;
+  }
+  body{
+    text-align: center;
+   
+    overflow-x: hidden;
+  
+  }
+  .img{
+    text-align: center;
+  }
+  footer{
+    width: 100%;
+    /* margin: -1rem0 */
+    overflow: hidden;
+    padding-top: 20px;
+    margin-bottom: -1rem;
+    left: 0;
+    right: 0;
+  }
+  
+  
